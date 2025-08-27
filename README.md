@@ -8,3 +8,4 @@ BOM Request for GRANT:
 | --------- | -------- | ----------- | ------ |
 | Choc Switches V1 (pro red) | 50 | $15.72 (welcome) | https://www.aliexpress.com/item/1005008883418065.html |
 | PCB | 5 for each side | $34.85 | JLCPCB |
+| Total: $50.57 (will likely ask for the extra 57 cents) |
