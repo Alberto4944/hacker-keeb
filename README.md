@@ -8,4 +8,15 @@ BOM Request for GRANT:
 | --------- | -------- | ----------- | ------ |
 | Choc Switches V1 (pro red) | 50 | $15.72 (welcome) | https://www.aliexpress.com/item/1005008883418065.html |
 | PCB | 5 for each side | $34.85 | JLCPCB |
+| Diodes | 50 (38 needed but get extra in case) | $0 | FROM GROUNDED BY HACKCLUB (BOM REFERENCE: diode) |
 | Total: $50.57 (will likely ask for the extra 57 cents) |
+
+BOM That I will be buying:
+| Component | Quantity | Price (USD) | Source |
+| --------- | -------- | ----------- | ------ |
+| Supermini NRF52840 | 2 or 5 | | Aliexpress |
+| Hotswap Sockets |
+| Reset Switch |
+| Power Switch |
+| Battery |
+| Keycaps |
