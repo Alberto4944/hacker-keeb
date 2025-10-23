@@ -54,3 +54,19 @@ August 24, 2025
 Copied from Groundplane/Grounded
   
 
+## 10/22/2025 10:19 PM - Basically done the case  
+
+### **What I Did**
+I worked on the case a lot, and flipped the power/reset switch on the pcb. Since I'm using shapr3d I did some visualization.
+
+### **Next Steps**
+- Make a cutout for the supermini nrf52840 - Make cutouts for the power/reset switch
+
+### **Issues Faced**
+Had troubles figuring out how big my battery is going to be. I think I am still going to settle with a 2000mah ps3 replacement battery which is 6mm thick.
+
+![186bee2db56c2dc4b0731540f33eaa25783c8d95_tmpah7s5ald.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c2bbd110ddedfc706c164533c6d59bb3330a9568/186bee2db56c2dc4b0731540f33eaa25783c8d95_tmpah7s5ald.png)
+
+August 25, 2025
+Copied from Groundplane/Grounded  
+
