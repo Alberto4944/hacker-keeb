@@ -70,3 +70,20 @@ Had troubles figuring out how big my battery is going to be. I think I am still 
 August 25, 2025
 Copied from Groundplane/Grounded  
 
+## 10/22/2025 10:20 PM - Finished the CAD  
+
+### **What I Did**
+Forgot to create a devlog but finished the CAD and PCB.
+
+### **Next Steps**
+Submit. I may have to do firmware though.
+
+### **Issues Faced**
+Had issues with figuring out standoffs and screws.
+
+![3e9893e0dcc92fe281b3c5285f3568d8e0341f6d_tmp4lji5irj.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY0MywicHVyIjoiYmxvYl9pZCJ9fQ==--78e5127a3e4237bb2cef298d5911f987f00a346b/3e9893e0dcc92fe281b3c5285f3568d8e0341f6d_tmp4lji5irj.png)
+
+August 28, 2025
+Copied from Groundplane/Grounded
+  
+
