@@ -37,3 +37,20 @@ Had difficulty figuring out which battery and mcu I was going to use.
 August 17, 2025
 Copied from Groundplane/Grounded  
 
+## 10/22/2025 10:18 PM - Almost Done the Case  
+
+### **What I Did**
+I did a whole bunch of work on the case and plate. I've been mostly working on the left side (but I will just flip for the right). I have made screw holes and mostly calculated the dimensions. I am realizing I need to flip the side that the power/reset switches are on (top > bottom). Hopefully tomorrow I can finish it!
+
+### **Next Steps**
+Finishing the case and making a BOM!
+
+### **Issues Faced**
+Had difficulties with the screw holes but eventually got it figured out.
+
+![903fbfd471e243c97adf6671c10fb806b62426bf_tmpyml5z34_.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--05419ef47f8b208cd0b2257717578391d3aeba4c/903fbfd471e243c97adf6671c10fb806b62426bf_tmpyml5z34_.png)
+
+August 24, 2025
+Copied from Groundplane/Grounded
+  
+
