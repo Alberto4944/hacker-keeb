@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/22/2025 - Believe I finished the pcb!  
+## 10/22/2025 10:13 PM - Believe I finished the pcb!  
 
 ### **What I Did**
 I worked on the schematic, and pcb. I did a bunch of research of what footprints and things to use, and settled upon using choc switches + hotswap sockets. I am using the Xiao nrf52840 (i was thinking of using the supermini from aliexpress, but I think I will just use my own money to buy the mcu).
@@ -20,4 +20,20 @@ I had some troubles with the diodes and where to place them, but in the end I th
 
 **August 13, 2025
 Copied from Groundplane/Grounded**  
+
+## 10/22/2025 10:16 PM - Finished the PCB  
+
+**### What I Did**
+Kind of forgot to make a devlog but I finished the pcb. I made big changes in my plan and ended up doing the following: 1. Switched from the Xiao BLE to the Supermini on Aliexpress to save costs 2. Went with Choc V1 only footprints/switches 3. Added the power switch, battery, and reset switch.
+
+**### Next Steps**
+The case!
+
+**### Issues Faced**
+Had difficulty figuring out which battery and mcu I was going to use.
+
+![bc452933ef86f01706c67b614234a92517dcd281_tmpym48i2mr.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--a14a6b04eb73b3479ab2b630d6afd55807caa645/bc452933ef86f01706c67b614234a92517dcd281_tmpym48i2mr.png)
+
+August 17, 2025
+Copied from Groundplane/Grounded  
 
